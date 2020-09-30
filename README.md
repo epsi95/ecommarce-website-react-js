@@ -1,4 +1,4 @@
-# ecommarce-website-rwact
+# ecommarce-website-react-js
 Sample react.js web-app for ecommerce.
 
 ## Glimpse:
